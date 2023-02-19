@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Will, a Backend Software Engineer. Feel free to check out the stuff I'm working on or send me a message 💬
+#### I'm Will, a Backend Software Engineer. Feel free to check out the stuff I'm working on or send me a message 💬
 
 <!--
 **wsoccorsi/wsoccorsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
