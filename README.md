@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## I'm a Backend Software Engineer @ Capital One. Professionally I've worked with
+<ul>
+  <li>Python</li>
+  <li>Ruby</li>
+  <li>Ruby on Rails</li>
+  <li>Angular 2+/HTML/CSS</li>
+</ul>
 <!--
 **wsoccorsi/wsoccorsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
