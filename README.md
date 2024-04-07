@@ -2,7 +2,7 @@
 
 #### I'm Will, a Backend Software Engineer. Feel free to check out the stuff I'm working on or send me a message 💬 @ wsoccorsi@gmail.com
 
-Check out my new site, determined to make investment knowledge mainstream. www.fihelper.com
+Check out my new site, determined to make investment knowledge mainstream. <dns name incoming and tbd> 
 <img width="1440" alt="Screenshot 2024-04-04 at 1 35 50 PM" src="https://github.com/wsoccorsi/wsoccorsi/assets/33301475/60332fb4-6ca8-4584-9e8d-7f836ae79772">
 
 <!--
